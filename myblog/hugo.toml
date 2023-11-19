@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+theme = 'hugo-theme-virgo'
+title = 'Simas Jarmalavicius'
+baseURL = 'https://bebras1.github.io'
